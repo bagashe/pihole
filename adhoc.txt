@@ -1,0 +1,5 @@
+s.youtube.com
+v.shopify.com
+static.mailerlite.com
+ecx.images-amazon.com
+static.klaviyo.com
