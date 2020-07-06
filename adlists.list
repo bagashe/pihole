@@ -11,7 +11,6 @@ https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://v.firebog.net/hosts/Easylist.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 https://v.firebog.net/hosts/Easyprivacy.txt
 https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -40,7 +39,6 @@ https://blocklist.site/app/dl/drugs
 https://blocklist.site/app/dl/fraud
 https://blocklist.site/app/dl/malware
 https://blocklist.site/app/dl/phishing
-https://blocklist.site/app/dl/ransomware
 https://blocklist.site/app/dl/tracking
 https://raw.githubusercontent.com/bagashe/pihole/master/ubiquiti.txt
 https://raw.githubusercontent.com/bagashe/pihole/master/adhoc.txt
