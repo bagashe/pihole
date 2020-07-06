@@ -9,7 +9,11 @@
 # 2. Add the following line at the end of the file - `$USER ALL=(ALL) NOPASSWD: ALL`
 # 3. Save and exit. Now you have passwordless sudo for `$USER`
 
+echo "Downloading blocklists ..."
 sudo /usr/bin/curl -# https://raw.githubusercontent.com/bagashe/pihole/master/adlists.list -O
+
+echo "Re-populate the gravity db ..."                                                                
+sudo sqlite3 /etc/pihole/gravity.db "delete from adlist;"
 
 while read list
 do
