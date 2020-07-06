@@ -3,3 +3,6 @@ v.shopify.com
 static.mailerlite.com
 ecx.images-amazon.com
 static.klaviyo.com
+sentitlement2.mobile.att.net
+ns11.whois.co.kr
+infolink.pavv.co.kr
