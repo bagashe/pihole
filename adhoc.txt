@@ -6,3 +6,4 @@ static.klaviyo.com
 sentitlement2.mobile.att.net
 ns11.whois.co.kr
 infolink.pavv.co.kr
+geistm.com
