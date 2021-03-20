@@ -7,3 +7,7 @@ sentitlement2.mobile.att.net
 ns11.whois.co.kr
 infolink.pavv.co.kr
 geistm.com
+unagi.amazon.com
+backstory.ebay.com
+crashlyticsreports-pa.googleapis.com
+newslink.reuters.com
