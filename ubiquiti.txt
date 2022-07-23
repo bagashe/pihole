@@ -1,4 +1,4 @@
 ping.ui.com
 trace.svc.ui.com
 unifi-report.ubnt.com
-
+unifi.home.arpa
