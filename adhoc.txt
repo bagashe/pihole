@@ -16,3 +16,7 @@ container.pepperjam.com
 i.postimg.cc
 cdn.livechatinc.com
 cdn.sift.com
+logsink.devices.nest.com
+squeakydoor.nest.com
+time.nest.com
+weather.nest.com
