@@ -1,0 +1,4 @@
+proxy.safebrowsing.apple
+pancake.apple.com
+gs-loc.apple.com
+smoot.apple.com
